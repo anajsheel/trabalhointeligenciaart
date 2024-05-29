@@ -1,0 +1,30 @@
+body {background-color: rgb(97, 83, 83);}
+
+h1 {color: midnightblue;}
+h2 {color: black;}
+h3 {color: darkgrey;}
+
+#um {width: 15%;}
+#dois {width: 25%;}
+#tres {width: 25%;}
+#quatro {width: 25%;}
+#cinco {width: 25%;}
+
+#um {margin-left: 15%;}
+#dois {margin-left: 10%;}
+#tres {margin-left: 15%;}
+#quatro {margin-left: 20%;}
+#cinco {margin-left: 20%;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+h4 {text-align: center;}
+
+h1 {font-size: 250%;}
+h2 {font-size: 190%;}
+H3 {font-size: 150%;}
+
+
+
+
